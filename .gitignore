@@ -2,3 +2,5 @@ compile-n-copy
 hydrastic.phar
 *.swp
 *.swo
+www/*
+log/*.log

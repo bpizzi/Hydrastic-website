@@ -1,0 +1,16 @@
+txt_dir: txt
+tpl_dir: tpl
+www_dir: www
+theme: hydrastic
+metadata_defaults:
+  General:
+    title: 'Hydrastic'
+    description: 'Static website generator'
+    author: Baptiste Pizzighini <baptiste_-AT-_bpizzi.fr> <http://github.com/bpizzi> <http://twitter.com/bpizzi>
+Taxonomy: 
+  Hydrastic:                                                                                                         e
+  Blog:
+    - News
+    - Technical
+  Documentation:
+  Development:
